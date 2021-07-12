@@ -18,3 +18,6 @@ Morfolojik operatörlerden biri olan dilation (genleşme) algoritmasının matla
 Kod çalıştırıldığında sizden m ve n sayısı isteyecektir. bunlar filtre boyutlarıdır. bu sayıları girip enter a basarak işleme devam edebilrisiniz. 
 örneğin m= 3 n = 3 girildiğinde: 
 3x3 boyutunda olan Z8 yapı elemanı gezdirilir. Bu uygulama sonrasında, paralar (beyaz daireler) büyümüştür/genişlemiştir. Paralar arası uzaklık azalmıştır. Siyah beyaz görüntüdeki paraların içinde, ışıktan veya desenden kaynaklı oluşan siyahlıklar uygulama sonrasında azalmıştır ve daha fazla dairesel bütünlüğe ulaşmıştır.
+
+7x7 boyutunda bir yapı elemanı kullanarak dilation işlemi gerçekleştirmek istenirse: 
+Bu uygulamanın sonucunda, 3x3 boyutundaki yapı elemanına göre paralar daha da büyümüş, paralar arası uzaklıklar daha fazla azalmış ve paraların içinde bulunan siyahlıklardan kaynaklı oluşan siyahlıklar daha da azalmış ve paraların bütünlüğü daha çok sağlanmıştır. 
