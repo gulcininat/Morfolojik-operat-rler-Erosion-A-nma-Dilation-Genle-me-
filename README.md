@@ -1,0 +1,1 @@
+# Morfolojik-operat-rler-Erosion-A-nma-Dilation-Genle-me-
